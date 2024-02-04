@@ -5,7 +5,7 @@ import logoImage from './images/undergradlogo.png';
 import squareImage1 from './images/1become_a_tutor.png';
 import squareImage2 from './images/2_book_sessions.png';
 import squareImage3 from './images/3_join_communities.png';
-import why from './images/Why.png';
+import Why from './images/Why.png';
 import whypt2 from './images/whypt2.png';
 
 function App() {
@@ -40,7 +40,7 @@ function App() {
           </div>
         </div>
         <div className="additional-images">
-          <img src={why} alt="WHY" />
+          <img src={Why} alt="WHY" />
           <img src={whypt2} alt="Additional Image 2" />
         </div>
       </main>
